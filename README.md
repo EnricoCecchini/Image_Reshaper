@@ -1,5 +1,5 @@
 # Image_Resizer
-Python script to resize images into square shape without cropping
+Python script to reshape images into square shape without cropping
 
 Disclaimer: Code from https://note.nkmk.me/en/python-pillow-add-margin-expand-canvas/ was used to add padding to image
 
